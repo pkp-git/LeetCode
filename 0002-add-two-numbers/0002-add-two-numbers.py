@@ -23,10 +23,9 @@ class Solution:
             carry = val//10
             appendval = val%10
 
-            tempnode.val = appendval
-            pointer.next = ListNode()
+            pointer.next = ListNode(appendval)
             pointer = pointer.next
-
+            
             if l1:
                 l1 = l1.next
             else:
