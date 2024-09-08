@@ -10,8 +10,8 @@ Common errors in interpreting the question include:
 
 Approach: 
 1. Run a while loop as long as l1 or l2 have elements in them, or carry exists (to mitigate Error 2)
-2. Get respective values of both linked list. If due to a length diffference like in the picture above we encounter missing values fill the missing value with 0.
+2. Get respective values from both linked lists. If due to a length diffference like in the picture above we encounter missing values fill the missing value with 0.
 3. Add the two values and carry (which initially is 0). 
 4. From the sum obtained, separate the carry and append the ones place digit to Final linked list (The solution linked list)
 5. Go to next node (l.next)
-6. repeat 3,4,5 till no more elements or carry remains. 
+6. repeat 2,3,4,5 till no more elements or carry remains. 
