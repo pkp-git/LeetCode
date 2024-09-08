@@ -35,5 +35,11 @@ class Solution:
             else:
                 None
 
+        self.print_linked_list(tempnode.next)
+
         return tempnode.next
-        
+
+    def print_linked_list(self, node: Optional[ListNode]):
+        while node:
+            print(node.val, end=" -> " if node.next else "\n")
+            node = node.next
