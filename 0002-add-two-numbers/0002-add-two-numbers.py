@@ -34,5 +34,5 @@ class Solution:
             else:
                 None
 
-        return tempnode.next()
+        return tempnode.next
         
