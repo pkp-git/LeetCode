@@ -23,16 +23,4 @@ class Solution:
             print(maxlen)
         return maxlen
 
-'''
-                count = 1 
-                for j in chars:
-                    if s[i] == j:
-                        change = s[i]
-                if chars[-1] == change:
-                    chars = chars[-1]
-                else:
-                    chars = chars[-1]+change
-                    count = 2
-'''
-
         
