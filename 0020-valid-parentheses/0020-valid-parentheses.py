@@ -6,9 +6,9 @@ class Solution:
             if i in "({[":
                 l.append(i)
             elif l and i == d[l[-1]]:
-                pop = l.remove(l[-1])
+                l.pop()
             else:
-                continue
+                return False
         return len(l) == 0
 
                 
