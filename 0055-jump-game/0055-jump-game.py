@@ -3,8 +3,8 @@ class Solution:
         mr = 0
 
         for i in range(0,len(nums)):
-            val = int(nums[i])
+            val = nums[i]
             if mr < i:
                 return False
-            mr = max(i+val,mr)
+            mr = max(val+i, mr)
         return True
