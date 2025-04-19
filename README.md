@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pkp-git/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pkp-git/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/pkp-git/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pkp-git/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
