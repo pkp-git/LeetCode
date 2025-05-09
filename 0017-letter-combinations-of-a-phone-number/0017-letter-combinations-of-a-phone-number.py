@@ -7,14 +7,17 @@ class Solution:
         if not digits:
             return []
         
-        def backtrack(combination, next_digits):
-            if not next_digits:
-                res.append(combination)
-                return
+        def backtrack(i, curstring):
+            if len(curstring) == len(digits):
+                res.append(curstring)
+                return 
             
-            for letter in phone[next_digits[0]]:
-                backtrack(combination + letter, next_digits[1:])
-        
-        backtrack("", digits)
+            for char in phone[digits[i]]:
+                backtrack(i+1, curstring + char)
+            
+        if digits: 
+            backtrack(0, "")
         return res
+            
+
 
