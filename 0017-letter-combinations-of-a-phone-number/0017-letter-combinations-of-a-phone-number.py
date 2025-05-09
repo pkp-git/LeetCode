@@ -4,19 +4,19 @@ class Solution:
         phone = {'2': "abc", '3': "def", '4': "ghi", '5': "jkl", '6': "mno", '7': "pqrs", '8': "tuv", '9': "wxyz"}
         res = []
 
-        if not digits:
+        if not digits: 
             return []
         
-        def backtrack(i, curstring):
-            if len(curstring) == len(digits):
-                res.append(curstring)
-                return 
+        def back(i, tempchar):
+            if len(tempchar) == len(digits):
+                res.append(tempchar)
+                return
             
-            for char in phone[digits[i]]:
-                backtrack(i+1, curstring + char)
-            
+            for c in phone[digits[i]]:
+                back(i + 1, tempchar + c)
+    
         if digits: 
-            backtrack(0, "")
+            back(0,"")
         return res
             
 
