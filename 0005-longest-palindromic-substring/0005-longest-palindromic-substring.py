@@ -5,6 +5,7 @@ class Solution:
     indices = [0, 0]
 
     def extend(s: str, i: int, j: int) -> tuple[int, int]:
+      
       while i >= 0 and j < len(s):
         if s[i] != s[j]:
           break
@@ -13,6 +14,7 @@ class Solution:
       return i + 1, j - 1
 
     for i in range(len(s)):
+     
       l1, r1 = extend(s, i, i)
       if r1 - l1 > indices[1] - indices[0]:
         indices = l1, r1
