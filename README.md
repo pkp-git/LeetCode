@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1013-fibonacci-number](https://github.com/pkp-git/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pkp-git/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pkp-git/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pkp-git/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [1013-fibonacci-number](https://github.com/pkp-git/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pkp-git/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/pkp-git/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pkp-git/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pkp-git/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
