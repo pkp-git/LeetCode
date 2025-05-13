@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pkp-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0485-max-consecutive-ones](https://github.com/pkp-git/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pkp-git/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
