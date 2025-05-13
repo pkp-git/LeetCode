@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pkp-git/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/pkp-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pkp-git/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pkp-git/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pkp-git/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pkp-git/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
