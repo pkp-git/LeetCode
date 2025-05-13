@@ -9,6 +9,3 @@ class Solution:
         
         for j in range(0,k):
             nums[j] = cache[j]
-
-        print(nums)
-        
