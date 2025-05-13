@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/pkp-git/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pkp-git/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pkp-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pkp-git/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/pkp-git/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pkp-git/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -127,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/pkp-git/LeetCode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
