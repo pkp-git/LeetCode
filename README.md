@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/pkp-git/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pkp-git/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pkp-git/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pkp-git/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pkp-git/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pkp-git/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pkp-git/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
 ## Hash Table
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pkp-git/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pkp-git/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pkp-git/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
