@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pkp-git/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pkp-git/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/pkp-git/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/pkp-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pkp-git/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/pkp-git/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pkp-git/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pkp-git/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/pkp-git/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/pkp-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pkp-git/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pkp-git/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pkp-git/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pkp-git/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/pkp-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
