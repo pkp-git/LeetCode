@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/pkp-git/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
 ## Math
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/pkp-git/LeetCode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/pkp-git/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/pkp-git/LeetCode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pkp-git/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pkp-git/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/pkp-git/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Design
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pkp-git/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/pkp-git/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pkp-git/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/pkp-git/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pkp-git/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/pkp-git/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pkp-git/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pkp-git/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
