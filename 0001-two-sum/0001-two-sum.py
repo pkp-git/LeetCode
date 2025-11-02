@@ -1,19 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        numidx = [(num, i) for i, num in enumerate(nums)]
-        numidx.sort(key=lambda x: x[0])
-        
-        i = 0
-        j = len(numidx) - 1
-        
-        while i < j:
-            total = numidx[i][0] + numidx[j][0]
-            if total == target:
-                return [numidx[i][1], numidx[j][1]]
-            elif total < target:
-                i += 1
-            else:
-                j -= 1
-        
-        return []
+        d = {}
+        for i in range(0,len(nums)):
+            d[nums[i]] = i
+        for i in range(0,len(nums)):
+            x = target - nums[i]
+            if x in d:
+                if i != d[x]:
+                    return [d[x],i]
+        return -1
