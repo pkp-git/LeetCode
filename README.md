@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pkp-git/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pkp-git/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pkp-git/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/pkp-git/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/pkp-git/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/pkp-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pkp-git/LeetCode/tree/master/0055-jump-game) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pkp-git/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/pkp-git/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
